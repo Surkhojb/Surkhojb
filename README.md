@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I am Juanjo-an Android Developer currently working at Inetum SL, currently working in a healthcare app.I am living at Alicante, Spain. I am passionate about Android Development and I love learning Android and mobile development.
+Hi, I am Juanjo-an Android Developer currently working at Inetum SL, currently working in a healthcare app.I am living in Alicante, Spain. I am passionate about Android Development and I love learning Android and mobile development.
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
