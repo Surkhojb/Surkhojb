@@ -15,4 +15,4 @@ Hi, I am Juanjo-an Android Developer currently working at Inetum SL, currently w
 I would like to learn more than 2020 and I am focused to move overseas to live a new experience and grow-up as Android developer.
 
 ## Get in touch:
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/juanjo-berenguer)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)My profile](https://www.linkedin.com/in/juanjo-berenguer)
