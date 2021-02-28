@@ -1,3 +1,5 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=theapache64&label=Profile%20views&color=0e75b6&style=flat"
+                     alt="theapache64"/></p>
 ### Hi there 👋
 Hi, I am Juanjo-an Android Developer currently working at Inetum SL, currently working in a healthcare app.I am living in Alicante, Spain. I am passionate about Android Development and I love learning Android and mobile development.
 
